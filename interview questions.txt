@@ -36,3 +36,8 @@ PACTERA EDGE:
 13.Did you get any chance to configure the release failures?
 14.Why do you use powershell in pipelines?
 
+15.Why do we use Nugget tool?
+16.What will you do if anyone accidentally deletes the pipeline?(what permissions do you have?)
+17.Can we delete build & release pipelines?
+18.Why do you use Git?
+19.Why do you use Powershell in Azure DevOps?
