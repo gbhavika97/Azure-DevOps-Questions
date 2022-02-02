@@ -58,10 +58,3 @@ PACTERA EDGE:
 18.Why do you use Git?
 19.Why do you use Powershell in Azure DevOps?
 
-
-
-BOSCH:
-1.Difference between hosted and self hosted agents?
-2.For parallel jobs why can't we use hosted agents?
-3.What are dynamic and static agents?
-
