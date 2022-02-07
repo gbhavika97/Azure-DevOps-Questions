@@ -1,3 +1,22 @@
+WIPRO:
+
+1.How is the build and release pipeline configured?
+2.What is terraform state file?
+3.Can we configure different state files for different environments and how we can access it?
+4.How are variables are configured in pipeline?
+5.Difference between Traffic Manager and Load Balancer?
+6.Role assignments?(scope)
+7.How do you perform health checks?
+8.If your build agent is in one subscription and your azure subscription is different , how do you configure it?
+9.How are ARM Templates written and how they are used in Azure DevOps?
+10.How can we give login permissions to web apps?
+11.How can we know if the script has executed well or not? How and where can we check?
+12.What policies do you give in Key Vaults?
+How do you give access to users and where?
+13.Where do you check if any errors occur and how do you troubleshoot them?
+14.How do you write a custom terraform script for function apps?
+15.Explain the 3-tier web application configuration?
+
 
 BOSCH:
 
