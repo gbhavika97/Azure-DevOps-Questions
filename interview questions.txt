@@ -1,3 +1,35 @@
+PEOPLE TECH:
+
+1.What are your roles? How your day goes?
+2.If you have any issues, how will you resolve it?
+3.If the issue is related to code, how will you resolve?whom do you approach?
+4.How is your build pipeline configured?
+5.Did you work on yaml files?
+6.What are the components of yaml file?
+7.Difference between hosted and self hosted agents?
+8.How do you configure self-hosted agent?
+9.How do you add new users in Azure DevOps?
+10.What is service principle and what are its components?
+11.How is Key Vault configured in Azure DevOps Pipeline?
+12.What are the environments you worked on?
+13.In which environment does developers work?
+14.What are pre-deployment & post-deployment conditions and how are they configured?
+15.What is terraform state file?
+16.How is terraform backend configured and where ?
+17.Explain about resource block of terraform backend?
+18.What is providers block?
+19.Explain about AWS Provider block?
+20.What are terraform workspaces?
+21.What is terraform file locking?
+22.What is fmt in terraform?
+23.What is taint in terraform?
+24.What is powershell file extension?
+25.What is the powershell command to start a VM?
+26.Git commands?
+27.What are terraform modules?
+
+
+
 WIPRO:
 
 1.How is the build and release pipeline configured?
