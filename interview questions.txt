@@ -1,3 +1,31 @@
+TAVANT Technologies:
+
+1.What issues you have faced in Azure DevOps Project?
+2.Explain about the entire CI/CD process of any application?
+3.Difference between hosted and self-hosted agents?
+4.If the pipeline is in queue state , what will you do?
+5.How do you integrate artifactory with Azure DevOps?
+6.How do you integrate Microsoft Teams with Azure DevOps?
+7.Difference between variable and variable group?
+8.How do you deploy webapp using Portal?
+9.What are deployment slots?
+10.If any changes are applied in staging slot,will it automatically reflect in Production slot?
+11.What are the different SKU's present in App Services?
+12.What is Isolated SKU?
+13.How  and where can you access webapp url?
+14.What is the default protocol to access the webapp?
+15.How can you assign multiple NIC cards to single VM?
+16.What are the types of storage accounts?
+17.How can I give access to single folder to a single person in the storage account?
+18.How can I create file storage and assign it ro VMs?
+19.After creating SAS token , if I want to give permanent access how can I give?
+20.What is Terraform Dynamic block?
+21.Explain about the functionality of Dynamic block of Terraform?
+22.What is for_each in Teeraform?
+23.If I want to create resource1 , resource2 , resource3 if resource1 is not created , will the remaining resources will be created or not? If not why?
+
+
+
 PEOPLE TECH:
 
 1.What are your roles? How your day goes?
